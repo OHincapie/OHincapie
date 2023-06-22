@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm David Hincapie </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=900&size=30&pause=1000&color=C0C0C0&center=true&width=435&lines=Software+development;Active+Learner+and+researcher;I+Love+code!+%3C3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=900&size=30&pause=1000&color=C0C0C0&center=true&width=435&separator=%3D&lines=Software+development+%3AD%3DActive+learner+;)%3DI+love+code+%3C3" alt="Typing SVG" /></a>
 </p>
 
 
