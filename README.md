@@ -17,7 +17,7 @@
 <br>
 
 - A passionate Self-taught Software developer
-- Currently working as Software Engineer
+- Currently working as Software Engineer at IDEMIA
 - I Currently working on AWS, React, Django.
 - I've keen interest in cloud computing. So,I'm learning AWS
 <br><br>
